@@ -1,10 +1,7 @@
 # pandas-challenge
 
 
-
-
-
-
+# HeroesOfPymoli
 
 1,#Dependencies and Setup
 2,#Open the csv file
@@ -52,3 +49,6 @@ Most Popular Items
 2,#Calculate Average Purchase Price group by item ID and item Name
 3,#Calculate Total Purchase Value
 4,#create a dataframe for the summary
+
+Most Profitable Items
+#Sort the above table by total purchase value in descending order
