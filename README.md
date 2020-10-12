@@ -15,6 +15,7 @@ Purchasing Analysis (Total)
 2,#Create a summary data frame to hold the results
 3,#give the displayed data cleaner formatting
 4,#Display the summary data frame
+5,#format the summary table
 
 Gender Demographics
 1,#Group original table by Gender and count
@@ -27,28 +28,34 @@ Purchasing Analysis (Gender)
 3,#Calculate Total Purchase Value
 4,#Get the average total purchase per person
 5,#create a dataframe for the summary
+6,#format the summary table
 
 Age Demographics
 1,#Establish bins for ages
 2,#Categorize the existing players using the age bins.
 3,#Calculate the numbers and percentages by age group
 4,#Create a summary data frame to hold the results
+5,#format the summary table
 
 Purchasing Analysis (Age)
 1,#Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. in the table below
 2,#Create a summary data frame to hold the results
+3,#format the summary table
 
 Top Spenders
 1,#Group original table by screen name and count
 2,#Calculate Average Purchase Price group by screen name
 3,#Calculate Total Purchase Value
 4,#create a dataframe for the summary
+5,#format the summary table
 
 Most Popular Items
 1,#Group original table by item ID and item Name and count
 2,#Calculate Average Purchase Price group by item ID and item Name
 3,#Calculate Total Purchase Value
 4,#create a dataframe for the summary
+5,#format the summary table
 
 Most Profitable Items
-#Sort the above table by total purchase value in descending order
+1,#Sort the above table by total purchase value in descending order
+2,#format the summary table
