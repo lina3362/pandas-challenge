@@ -32,3 +32,17 @@ Purchasing Analysis (Gender)
 5,#create a dataframe for the summary
 
 Age Demographics
+1,#Establish bins for ages
+2,#Categorize the existing players using the age bins.
+3,#Calculate the numbers and percentages by age group
+4,#Create a summary data frame to hold the results
+
+Purchasing Analysis (Age)
+1,#Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. in the table below
+2,#Create a summary data frame to hold the results
+
+Top Spenders
+1,#Group original table by screen name and count
+2,#Calculate Average Purchase Price group by screen name
+3,#Calculate Total Purchase Value
+4,#create a dataframe for the summary
