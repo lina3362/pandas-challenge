@@ -46,3 +46,9 @@ Top Spenders
 2,#Calculate Average Purchase Price group by screen name
 3,#Calculate Total Purchase Value
 4,#create a dataframe for the summary
+
+Most Popular Items
+1,#Group original table by item ID and item Name and count
+2,#Calculate Average Purchase Price group by item ID and item Name
+3,#Calculate Total Purchase Value
+4,#create a dataframe for the summary
